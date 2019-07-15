@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Drum/static/css/main.4386507f.chunk.css",
+    "main.css": "/Drum/static/css/main.0b00f2e0.chunk.css",
     "main.js": "/Drum/static/js/main.8d67ffdc.chunk.js",
     "main.js.map": "/Drum/static/js/main.8d67ffdc.chunk.js.map",
     "runtime~main.js": "/Drum/static/js/runtime~main.9ae2b7cf.js",
@@ -8,9 +8,9 @@
     "static/js/2.d6a534e5.chunk.js": "/Drum/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/Drum/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/Drum/index.html",
-    "precache-manifest.dd8e5bf2ae92b94843c371ddf9817c8d.js": "/Drum/precache-manifest.dd8e5bf2ae92b94843c371ddf9817c8d.js",
+    "precache-manifest.9a9a4712c045be8574dd28b1f518ef7b.js": "/Drum/precache-manifest.9a9a4712c045be8574dd28b1f518ef7b.js",
     "service-worker.js": "/Drum/service-worker.js",
-    "static/css/main.4386507f.chunk.css.map": "/Drum/static/css/main.4386507f.chunk.css.map",
+    "static/css/main.0b00f2e0.chunk.css.map": "/Drum/static/css/main.0b00f2e0.chunk.css.map",
     "static/media/logo.svg": "/Drum/static/media/logo.5d5d9eef.svg"
   }
 }
